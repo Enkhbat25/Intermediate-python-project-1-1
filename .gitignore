@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+# The raw IMDb files are huge - download them yourself (see README).
+data/*.tsv.gz
